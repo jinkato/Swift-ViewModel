@@ -8,7 +8,6 @@
 
 import UIKit
 
-//https://talk.objc.io/episodes/S01E47-view-models-at-kickstarter
 // --------------------------------------------------------------------------------- Model
 
 

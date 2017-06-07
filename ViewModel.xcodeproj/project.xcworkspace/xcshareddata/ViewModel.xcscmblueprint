@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C37855726A1ECD028DCC9EEB5B8A88599194EF79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C37855726A1ECD028DCC9EEB5B8A88599194EF79" : 9223372036854775807,
+    "FF170F0FF9A89EBB27C245BE2A7488CF396DA236" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3F8C9450-6B77-4F77-A719-BFFEBBD28F9A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C37855726A1ECD028DCC9EEB5B8A88599194EF79" : "ViewModel\/",
+    "FF170F0FF9A89EBB27C245BE2A7488CF396DA236" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ViewModel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ViewModel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jinkato\/Swift-ViewModel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C37855726A1ECD028DCC9EEB5B8A88599194EF79"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.digitas.com:jkato\/idiom-tools.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FF170F0FF9A89EBB27C245BE2A7488CF396DA236"
+    }
+  ]
+}
